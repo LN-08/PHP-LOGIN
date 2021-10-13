@@ -1,0 +1,11 @@
+@import url('http://fonts.cdnfonts.com/css/billabong'); /*Instagram font*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#contenedor-form-registro{
+    display: none;
+}
